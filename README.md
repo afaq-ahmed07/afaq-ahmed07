@@ -1,8 +1,8 @@
-# Welcome to [Your Name]'s GitHub Space! 🚀
+# Welcome to Afaq Ahmed's GitHub Space! 🚀
 
 ## About Me
 
-Greetings! I'm [Your Name], a passionate and versatile developer with a flair for turning ideas into elegant solutions through code. As a computer science student, I am deeply immersed in the world of technology.
+Greetings! I'm Afaq Ahmed, a passionate and versatile developer with a flair for turning ideas into elegant solutions through code. As a computer science student, I am deeply immersed in the world of technology.
 
 ### Skills
 
