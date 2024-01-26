@@ -6,6 +6,8 @@ Greetings! I'm Afaq Ahmed, a passionate and versatile developer with a flair for
 
 [![Profile Views](https://komarev.com/ghpvc/?username=afaq-ahmed07&color=blue&label=Profile+Views)](https://github.com/afaq-ahmed07)
 
+[![Image of https://github.com/afaq-ahmed07/my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter)
+
   
 
 ### Skills
