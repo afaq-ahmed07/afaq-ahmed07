@@ -4,6 +4,10 @@
 
 Greetings! I'm Afaq Ahmed, a passionate and versatile developer with a flair for turning ideas into elegant solutions through code. As a computer science student, I am deeply immersed in the world of technology.
 
+[![Profile Views](https://komarev.com/ghpvc/?username=afaq-ahmed07&color=blue&label=Profile+Views)](https://github.com/afaq-ahmed07)
+
+  
+
 ### Skills
 
 - **Proficient Languages:** C++, Python (beginner), HTML
