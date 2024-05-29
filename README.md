@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afaq Ahmed</h1>
-<h3 align="center">A passionate computer science student from Pakistan</h3>
+<h3 align="center">A passionate and versatile developer with a flair for turning ideas into elegant solutions through code. As a computer science student, I am deeply immersed in the world of technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afaq-ahmed07&label=Profile%20views&color=0e75b6&style=flat" alt="afaq-ahmed07" /> </p>
+<p align="left"> [![Image of https://github.com/afaq-ahmed07/my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter) </p>
 
 - 🔭 I’m currently working on **VisionVault**
 
