@@ -7,12 +7,6 @@ Greetings! I'm Afaq Ahmed, a passionate and versatile developer with a flair for
 
 [![Image of https://github.com/afaq-ahmed07/my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter)
 
-- 🔭 I’m currently working on **VisionVault**
-
-- 🌱 I’m currently learning **Nodejs**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
 - 👨‍💻 All of my projects are available at [https://afaq-ahmed07.github.io/portfolio](https://afaq-ahmed07.github.io/portfolio)
 
 - 📫 How to reach me **afaqshahbaaz9@gmail.com**
