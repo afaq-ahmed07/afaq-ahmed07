@@ -7,8 +7,6 @@ Greetings! I'm Afaq Ahmed, a passionate and versatile developer with a flair for
 
 [![Image of https://github.com/afaq-ahmed07/my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter)
 
-- 👨‍💻 All of my projects are available at [https://afaq-ahmed07.github.io/portfolio](https://afaq-ahmed07.github.io/portfolio)
-
 - 📫 How to reach me **afaqshahbaaz9@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wD54DE0-3qlyHFbXK11wR-NP6DhOkctz/view?usp=drive_link](https://drive.google.com/file/d/1wD54DE0-3qlyHFbXK11wR-NP6DhOkctz/view?usp=drive_link)
