@@ -18,9 +18,6 @@ Greetings! I'm Afaq Ahmed, a passionate and versatile developer with a flair for
 <a href="https://instagram.com/afaqahmed0047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afaqahmed0047" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afaq-ahmed07&show_icons=true&locale=en&layout=compact" alt="afaq-ahmed07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afaq-ahmed07&show_icons=true&locale=en" alt="afaq-ahmed07" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afaq-ahmed07&theme=dark)](https://git.io/streak-stats)
 
