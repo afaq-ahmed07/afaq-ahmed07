@@ -22,6 +22,6 @@ Greetings! I'm Afaq Ahmed, a passionate and versatile developer with a flair for
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afaq-ahmed07&show_icons=true&locale=en" alt="afaq-ahmed07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afaq-ahmed07&" alt="afaq-ahmed07" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afaq-ahmed07&theme=dark)](https://git.io/streak-stats)
 
 
