@@ -12,7 +12,7 @@ Master’s student in Artificial Intelligence with a strong interest in building
 [![Profile Views](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter)
 
 ## GitHub Statistics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=afaq-ahmed07)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=afaq-ahmed07&theme=dark)](https://git.io/streak-stats)
 
 ## Activity Overview
 Consistent contributor with focus on backend development, data handling, and applied machine learning projects.
